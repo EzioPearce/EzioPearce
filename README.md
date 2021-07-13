@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EzioPearce
-- 👀 I’m currently working on cloud computing, Blockchain, Machine Learning and Data Science
+- 👀 I’m currently working on something to build and call my own
 - 🌱 I’m currently learning Artificial Intelligence Algorthmic programming
 - 💞️ I’m looking to collaborate on anything tech, Algorithms and research methodologies.
 - 📫 How to reach me: krishna.vaddamani@gmail.com
