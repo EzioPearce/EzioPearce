@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EzioPearce
-- 👀 I’m currently working on cloud engineering and practicing competetive programming 
+- 👀 I’m currently working on cloud engineering
 - 🌱 I’m currently learning Artificial Intelligence Algorthmic programming
 - 💞️ I’m looking to collaborate on anything tech, Algorithms and research methodologies.
 - 📫 How to reach me: aidenpearce1204@gmail.com
