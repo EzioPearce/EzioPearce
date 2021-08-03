@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EzioPearce
 - 👀 I’m currently working on blockchain research
 - 🌱 I’m currently learning Artificial Intelligence Algorthmic programming
-- 💞️ I’m looking to collaborate on anything tech, Algorithms and research methodologies.
+- 💞️ I’m looking to collaborate on AI/Blockchain, Algorithms and research methodologies.
 - 📫 How to reach me: aidenpearce1204@gmail.com
 
 <!---
