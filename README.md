@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EzioPearce
 - 👀 I’m currently working on blockchain research
-- 🌱 I’m currently learning Artificial Intelligence Algorithms for competitive programming
+- 🌱 4 times DF CTF Winner. Winner of 18 Hackathons. Excecutive and Founding Director of 4 Companies
 - 💞️ I’m looking to collaborate on AI/Blockchain, Algorithms and research methodologies
 - 📫 How to reach me: aidenpearce1204@gmail.com
 
