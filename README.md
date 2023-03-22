@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EzioPearce
 - 👀 I’m currently working on Research and development in blockchain, Artificial intelligence and systems engineering
-- 🌱 Learning Decentralization and DeFi architectures, Computer Vision and AI Programming
+- 🌱 Learning Decentralization and DeFi architectures, Computer Vision and full stack development
 - :vulcan_salute: I currently work as a Devops and Site Reliability Engineer
 
 <!---
