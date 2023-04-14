@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently Working on Building High Quality Projects that work optimally everywhere<br>🤝 Looking to Collaborate on Backend Engineering, Machine Learning and DevSecOps<br>🌱 Currently Learning about Open Source Software and Applications of AI?ML with Blockchain<br>💬 Ask me about Golang, Computer Networks, Cloud Computing
+🔭 Currently Working on Building High Quality Projects that work optimally everywhere<br>🤝 Looking to Collaborate on Backend Engineering, Machine Learning and DevSecOps<br>🌱 Currently Learning about Open Source Software and Applications of AI?ML with Blockchain<br>💬 Ask me about Backend Engineering, Computer Networks, Cloud Computing
 
 
 ## 🌐 Socials:
